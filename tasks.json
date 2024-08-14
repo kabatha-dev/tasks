@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Complete project proposal",
+      "description": "Write and submit the project proposal by the end of the day.",
+      "status": "in-progress",
+      "dueDate": "2024-08-15"
+    },
+    {
+      "id": 2,
+      "title": "Design homepage layout",
+      "description": "Create wireframes and design mockups for the new homepage.",
+      "status": "not-started",
+      "dueDate": "2024-08-20"
+    },
+    {
+      "id": 3,
+      "title": "Client meeting",
+      "description": "Discuss project requirements with the client.",
+      "status": "completed",
+      "dueDate": "2024-08-12"
+    }
+  ]
+}
+
